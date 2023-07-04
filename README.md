@@ -1,2 +1,2 @@
-# portfolio
-Pet-projects
+# pet-projects
+В этом репозитории собраны мои пет-проекты
